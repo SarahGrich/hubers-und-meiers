@@ -8,3 +8,48 @@ div{
   border: 1px solid black;
   margin: 5px;
 }
+
+.huber #lisa, #luis{
+  background: black;
+}
+
+/* div.huber div.meier#lisa{
+  background: red;
+} */
+
+.huber #lisa.meier{
+  background: red;
+}
+
+body .huber #lisa{
+  background: white;
+}
+
+
+
+.huber div#lisa{
+  background: violet;
+}
+
+.meier #luis{
+  background: pink;
+}
+
+#lisa{
+  background: yellow;
+}
+
+.huber{
+  background: green;
+}
+
+.meier{
+  background: red;
+}
+
+#georg{
+  background: maroon;
+}
+
+
+
